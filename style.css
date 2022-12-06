@@ -1,0 +1,20 @@
+body
+{
+    background-color: #0a192f;
+    color: white;
+}
+
+ol li
+{
+    display: inline;
+}
+
+.main-head-right
+{
+    float: right;
+}
+
+.main-head
+{
+    display:flex;
+}
